@@ -6,6 +6,7 @@ git push
 update code từ github về máy:
 git pull
 
-clone file từ github:
+clone file từ github
 git clone "nhập link cần clone"
 
+a trung2k3
