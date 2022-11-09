@@ -1,0 +1,434 @@
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\bin\Debug\net5.0-windows\3_PL.exe
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\bin\Debug\net5.0-windows\3_PL.deps.json
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\bin\Debug\net5.0-windows\3_PL.runtimeconfig.json
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\bin\Debug\net5.0-windows\3_PL.runtimeconfig.dev.json
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\bin\Debug\net5.0-windows\3_PL.dll
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\bin\Debug\net5.0-windows\3_PL.pdb
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\bin\Debug\net5.0-windows\FontAwesome.Sharp.dll
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\obj\Debug\net5.0-windows\3_PL.csproj.AssemblyReference.cache
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\obj\Debug\net5.0-windows\3_PL.GeneratedMSBuildEditorConfig.editorconfig
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\obj\Debug\net5.0-windows\3_PL.AssemblyInfoInputs.cache
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\obj\Debug\net5.0-windows\3_PL.AssemblyInfo.cs
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\obj\Debug\net5.0-windows\3_PL.csproj.CoreCompileInputs.cache
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\obj\Debug\net5.0-windows\3_PL.csproj.CopyComplete
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\obj\Debug\net5.0-windows\3_PL.dll
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\obj\Debug\net5.0-windows\refint\3_PL.dll
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\obj\Debug\net5.0-windows\3_PL.pdb
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\obj\Debug\net5.0-windows\3_PL.genruntimeconfig.cache
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\obj\Debug\net5.0-windows\ref\3_PL.dll
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\bin\Debug\net5.0-windows\1_DAL.dll
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\bin\Debug\net5.0-windows\2_BUS.dll
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\bin\Debug\net5.0-windows\2_BUS.pdb
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\bin\Debug\net5.0-windows\1_DAL.pdb
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\obj\Debug\net5.0-windows\3_PL.csproj.GenerateResource.cache
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\obj\Debug\net5.0-windows\_3_PL.Views.frm_Menu.resources
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\obj\Debug\net5.0-windows\_3_PL.Views.frm_QLSanPham.resources
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\obj\Debug\net5.0-windows\_3_PL.Views.frm_QLNhanVien.resources
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\obj\Debug\net5.0-windows\_3_PL.Views.frm_QLChucVu.resources
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\obj\Debug\net5.0-windows\_3_PL.Views.frm_QLCuaHang.resources
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\obj\Debug\net5.0-windows\_3_PL.Views.frm_QLDongSp.resources
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\obj\Debug\net5.0-windows\_3_PL.Views.frm_QLKhachHang.resources
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\obj\Debug\net5.0-windows\_3_PL.Views.frm_QLMauSac.resources
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\obj\Debug\net5.0-windows\_3_PL.Views.frm_QLNsx.resources
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\obj\Debug\net5.0-windows\_3_PL.Properties.Resources.resources
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\obj\Debug\net5.0-windows\_3_PL.Views.frm_anh.resources
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\obj\Debug\net5.0-windows\_3_PL.Views.frm_QLHoaDon.resources
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\obj\Debug\net5.0-windows\_3_PL.Views.frm_QLHoaDonCT.resources
+C:\Users\trung\Desktop\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\bin\Debug\net5.0-windows\3_PL.exe
+C:\Users\trung\Desktop\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\bin\Debug\net5.0-windows\3_PL.deps.json
+C:\Users\trung\Desktop\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\bin\Debug\net5.0-windows\3_PL.runtimeconfig.json
+C:\Users\trung\Desktop\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\bin\Debug\net5.0-windows\3_PL.runtimeconfig.dev.json
+C:\Users\trung\Desktop\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\bin\Debug\net5.0-windows\3_PL.dll
+C:\Users\trung\Desktop\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\bin\Debug\net5.0-windows\3_PL.pdb
+C:\Users\trung\Desktop\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\bin\Debug\net5.0-windows\FontAwesome.Sharp.dll
+C:\Users\trung\Desktop\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\trung\Desktop\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\trung\Desktop\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\trung\Desktop\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\trung\Desktop\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\trung\Desktop\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\trung\Desktop\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\trung\Desktop\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\trung\Desktop\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\trung\Desktop\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\trung\Desktop\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\trung\Desktop\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\trung\Desktop\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\trung\Desktop\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\trung\Desktop\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+C:\Users\trung\Desktop\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\trung\Desktop\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\trung\Desktop\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\trung\Desktop\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\trung\Desktop\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\trung\Desktop\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\trung\Desktop\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\trung\Desktop\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\trung\Desktop\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+C:\Users\trung\Desktop\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\trung\Desktop\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\trung\Desktop\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\trung\Desktop\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\trung\Desktop\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\trung\Desktop\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\trung\Desktop\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\trung\Desktop\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\trung\Desktop\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\trung\Desktop\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\trung\Desktop\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\trung\Desktop\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\bin\Debug\net5.0-windows\1_DAL.dll
+C:\Users\trung\Desktop\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\bin\Debug\net5.0-windows\2_BUS.dll
+C:\Users\trung\Desktop\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\bin\Debug\net5.0-windows\2_BUS.pdb
+C:\Users\trung\Desktop\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\bin\Debug\net5.0-windows\1_DAL.pdb
+C:\Users\trung\Desktop\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\obj\Debug\net5.0-windows\3_PL.csproj.AssemblyReference.cache
+C:\Users\trung\Desktop\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\obj\Debug\net5.0-windows\_3_PL.Properties.Resources.resources
+C:\Users\trung\Desktop\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\obj\Debug\net5.0-windows\_3_PL.Views.frm_anh.resources
+C:\Users\trung\Desktop\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\obj\Debug\net5.0-windows\_3_PL.Views.frm_CTSP.resources
+C:\Users\trung\Desktop\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\obj\Debug\net5.0-windows\_3_PL.Views.frm_Menu.resources
+C:\Users\trung\Desktop\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\obj\Debug\net5.0-windows\_3_PL.Views.frm_QLChucVu.resources
+C:\Users\trung\Desktop\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\obj\Debug\net5.0-windows\_3_PL.Views.frm_QLCuaHang.resources
+C:\Users\trung\Desktop\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\obj\Debug\net5.0-windows\_3_PL.Views.frm_QLDongSp.resources
+C:\Users\trung\Desktop\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\obj\Debug\net5.0-windows\_3_PL.Views.frm_QLHoaDon.resources
+C:\Users\trung\Desktop\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\obj\Debug\net5.0-windows\_3_PL.Views.frm_QLHoaDonCT.resources
+C:\Users\trung\Desktop\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\obj\Debug\net5.0-windows\_3_PL.Views.frm_QLKhachHang.resources
+C:\Users\trung\Desktop\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\obj\Debug\net5.0-windows\_3_PL.Views.frm_QLMauSac.resources
+C:\Users\trung\Desktop\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\obj\Debug\net5.0-windows\_3_PL.Views.frm_QLNhanVien.resources
+C:\Users\trung\Desktop\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\obj\Debug\net5.0-windows\_3_PL.Views.frm_QLNsx.resources
+C:\Users\trung\Desktop\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\obj\Debug\net5.0-windows\_3_PL.Views.frm_QLSanPham.resources
+C:\Users\trung\Desktop\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\obj\Debug\net5.0-windows\3_PL.csproj.GenerateResource.cache
+C:\Users\trung\Desktop\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\obj\Debug\net5.0-windows\3_PL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trung\Desktop\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\obj\Debug\net5.0-windows\3_PL.AssemblyInfoInputs.cache
+C:\Users\trung\Desktop\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\obj\Debug\net5.0-windows\3_PL.AssemblyInfo.cs
+C:\Users\trung\Desktop\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\obj\Debug\net5.0-windows\3_PL.csproj.CoreCompileInputs.cache
+C:\Users\trung\Desktop\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\obj\Debug\net5.0-windows\3_PL.csproj.CopyComplete
+C:\Users\trung\Desktop\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\obj\Debug\net5.0-windows\3_PL.dll
+C:\Users\trung\Desktop\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\obj\Debug\net5.0-windows\refint\3_PL.dll
+C:\Users\trung\Desktop\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\obj\Debug\net5.0-windows\3_PL.pdb
+C:\Users\trung\Desktop\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\obj\Debug\net5.0-windows\3_PL.genruntimeconfig.cache
+C:\Users\trung\Desktop\PTPM_ASSIGNMENT_TRUNGTVPH28671\3_PL\obj\Debug\net5.0-windows\ref\3_PL.dll
+C:\Users\trung\Desktop\SapXong\3_PL\bin\Debug\net5.0-windows\3_PL.exe
+C:\Users\trung\Desktop\SapXong\3_PL\bin\Debug\net5.0-windows\3_PL.deps.json
+C:\Users\trung\Desktop\SapXong\3_PL\bin\Debug\net5.0-windows\3_PL.runtimeconfig.json
+C:\Users\trung\Desktop\SapXong\3_PL\bin\Debug\net5.0-windows\3_PL.runtimeconfig.dev.json
+C:\Users\trung\Desktop\SapXong\3_PL\bin\Debug\net5.0-windows\3_PL.dll
+C:\Users\trung\Desktop\SapXong\3_PL\bin\Debug\net5.0-windows\3_PL.pdb
+C:\Users\trung\Desktop\SapXong\3_PL\bin\Debug\net5.0-windows\FontAwesome.Sharp.dll
+C:\Users\trung\Desktop\SapXong\3_PL\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\trung\Desktop\SapXong\3_PL\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\trung\Desktop\SapXong\3_PL\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\trung\Desktop\SapXong\3_PL\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\trung\Desktop\SapXong\3_PL\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\trung\Desktop\SapXong\3_PL\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\trung\Desktop\SapXong\3_PL\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\trung\Desktop\SapXong\3_PL\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\trung\Desktop\SapXong\3_PL\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\trung\Desktop\SapXong\3_PL\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\trung\Desktop\SapXong\3_PL\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\trung\Desktop\SapXong\3_PL\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\trung\Desktop\SapXong\3_PL\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\trung\Desktop\SapXong\3_PL\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\trung\Desktop\SapXong\3_PL\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+C:\Users\trung\Desktop\SapXong\3_PL\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\trung\Desktop\SapXong\3_PL\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\trung\Desktop\SapXong\3_PL\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\trung\Desktop\SapXong\3_PL\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\trung\Desktop\SapXong\3_PL\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\trung\Desktop\SapXong\3_PL\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\trung\Desktop\SapXong\3_PL\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\trung\Desktop\SapXong\3_PL\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\trung\Desktop\SapXong\3_PL\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+C:\Users\trung\Desktop\SapXong\3_PL\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\trung\Desktop\SapXong\3_PL\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\trung\Desktop\SapXong\3_PL\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\trung\Desktop\SapXong\3_PL\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\trung\Desktop\SapXong\3_PL\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\trung\Desktop\SapXong\3_PL\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\trung\Desktop\SapXong\3_PL\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\trung\Desktop\SapXong\3_PL\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\trung\Desktop\SapXong\3_PL\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\trung\Desktop\SapXong\3_PL\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\trung\Desktop\SapXong\3_PL\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\trung\Desktop\SapXong\3_PL\bin\Debug\net5.0-windows\1_DAL.dll
+C:\Users\trung\Desktop\SapXong\3_PL\bin\Debug\net5.0-windows\2_BUS.dll
+C:\Users\trung\Desktop\SapXong\3_PL\bin\Debug\net5.0-windows\2_BUS.pdb
+C:\Users\trung\Desktop\SapXong\3_PL\bin\Debug\net5.0-windows\1_DAL.pdb
+C:\Users\trung\Desktop\SapXong\3_PL\obj\Debug\net5.0-windows\3_PL.csproj.AssemblyReference.cache
+C:\Users\trung\Desktop\SapXong\3_PL\obj\Debug\net5.0-windows\_3_PL.Properties.Resources.resources
+C:\Users\trung\Desktop\SapXong\3_PL\obj\Debug\net5.0-windows\_3_PL.Views.frm_anh.resources
+C:\Users\trung\Desktop\SapXong\3_PL\obj\Debug\net5.0-windows\_3_PL.Views.frm_CTSP.resources
+C:\Users\trung\Desktop\SapXong\3_PL\obj\Debug\net5.0-windows\_3_PL.Views.frm_Menu.resources
+C:\Users\trung\Desktop\SapXong\3_PL\obj\Debug\net5.0-windows\_3_PL.Views.frm_QLChucVu.resources
+C:\Users\trung\Desktop\SapXong\3_PL\obj\Debug\net5.0-windows\_3_PL.Views.frm_QLCuaHang.resources
+C:\Users\trung\Desktop\SapXong\3_PL\obj\Debug\net5.0-windows\_3_PL.Views.frm_QLDongSp.resources
+C:\Users\trung\Desktop\SapXong\3_PL\obj\Debug\net5.0-windows\_3_PL.Views.frm_QLHoaDon.resources
+C:\Users\trung\Desktop\SapXong\3_PL\obj\Debug\net5.0-windows\_3_PL.Views.frm_QLHoaDonCT.resources
+C:\Users\trung\Desktop\SapXong\3_PL\obj\Debug\net5.0-windows\_3_PL.Views.frm_QLKhachHang.resources
+C:\Users\trung\Desktop\SapXong\3_PL\obj\Debug\net5.0-windows\_3_PL.Views.frm_QLMauSac.resources
+C:\Users\trung\Desktop\SapXong\3_PL\obj\Debug\net5.0-windows\_3_PL.Views.frm_QLNhanVien.resources
+C:\Users\trung\Desktop\SapXong\3_PL\obj\Debug\net5.0-windows\_3_PL.Views.frm_QLNsx.resources
+C:\Users\trung\Desktop\SapXong\3_PL\obj\Debug\net5.0-windows\_3_PL.Views.frm_QLSanPham.resources
+C:\Users\trung\Desktop\SapXong\3_PL\obj\Debug\net5.0-windows\3_PL.csproj.GenerateResource.cache
+C:\Users\trung\Desktop\SapXong\3_PL\obj\Debug\net5.0-windows\3_PL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trung\Desktop\SapXong\3_PL\obj\Debug\net5.0-windows\3_PL.AssemblyInfoInputs.cache
+C:\Users\trung\Desktop\SapXong\3_PL\obj\Debug\net5.0-windows\3_PL.AssemblyInfo.cs
+C:\Users\trung\Desktop\SapXong\3_PL\obj\Debug\net5.0-windows\3_PL.csproj.CoreCompileInputs.cache
+C:\Users\trung\Desktop\SapXong\3_PL\obj\Debug\net5.0-windows\3_PL.csproj.CopyComplete
+C:\Users\trung\Desktop\SapXong\3_PL\obj\Debug\net5.0-windows\3_PL.dll
+C:\Users\trung\Desktop\SapXong\3_PL\obj\Debug\net5.0-windows\refint\3_PL.dll
+C:\Users\trung\Desktop\SapXong\3_PL\obj\Debug\net5.0-windows\3_PL.pdb
+C:\Users\trung\Desktop\SapXong\3_PL\obj\Debug\net5.0-windows\3_PL.genruntimeconfig.cache
+C:\Users\trung\Desktop\SapXong\3_PL\obj\Debug\net5.0-windows\ref\3_PL.dll
+F:\SapXong\3_PL\bin\Debug\net5.0-windows\3_PL.exe
+F:\SapXong\3_PL\bin\Debug\net5.0-windows\3_PL.deps.json
+F:\SapXong\3_PL\bin\Debug\net5.0-windows\3_PL.runtimeconfig.json
+F:\SapXong\3_PL\bin\Debug\net5.0-windows\3_PL.runtimeconfig.dev.json
+F:\SapXong\3_PL\bin\Debug\net5.0-windows\3_PL.dll
+F:\SapXong\3_PL\bin\Debug\net5.0-windows\3_PL.pdb
+F:\SapXong\3_PL\bin\Debug\net5.0-windows\FontAwesome.Sharp.dll
+F:\SapXong\3_PL\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+F:\SapXong\3_PL\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+F:\SapXong\3_PL\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\SapXong\3_PL\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+F:\SapXong\3_PL\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\SapXong\3_PL\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+F:\SapXong\3_PL\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+F:\SapXong\3_PL\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\SapXong\3_PL\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+F:\SapXong\3_PL\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\SapXong\3_PL\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+F:\SapXong\3_PL\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+F:\SapXong\3_PL\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+F:\SapXong\3_PL\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+F:\SapXong\3_PL\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+F:\SapXong\3_PL\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\SapXong\3_PL\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+F:\SapXong\3_PL\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+F:\SapXong\3_PL\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\SapXong\3_PL\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+F:\SapXong\3_PL\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+F:\SapXong\3_PL\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+F:\SapXong\3_PL\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+F:\SapXong\3_PL\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+F:\SapXong\3_PL\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\SapXong\3_PL\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\SapXong\3_PL\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\SapXong\3_PL\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\SapXong\3_PL\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\SapXong\3_PL\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\SapXong\3_PL\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\SapXong\3_PL\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\SapXong\3_PL\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\SapXong\3_PL\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\SapXong\3_PL\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\SapXong\3_PL\bin\Debug\net5.0-windows\1_DAL.dll
+F:\SapXong\3_PL\bin\Debug\net5.0-windows\2_BUS.dll
+F:\SapXong\3_PL\bin\Debug\net5.0-windows\2_BUS.pdb
+F:\SapXong\3_PL\bin\Debug\net5.0-windows\1_DAL.pdb
+F:\SapXong\3_PL\obj\Debug\net5.0-windows\3_PL.csproj.AssemblyReference.cache
+F:\SapXong\3_PL\obj\Debug\net5.0-windows\_3_PL.Properties.Resources.resources
+F:\SapXong\3_PL\obj\Debug\net5.0-windows\_3_PL.Views.frm_anh.resources
+F:\SapXong\3_PL\obj\Debug\net5.0-windows\_3_PL.Views.frm_CTSP.resources
+F:\SapXong\3_PL\obj\Debug\net5.0-windows\_3_PL.Views.frm_Menu.resources
+F:\SapXong\3_PL\obj\Debug\net5.0-windows\_3_PL.Views.frm_QLChucVu.resources
+F:\SapXong\3_PL\obj\Debug\net5.0-windows\_3_PL.Views.frm_QLCuaHang.resources
+F:\SapXong\3_PL\obj\Debug\net5.0-windows\_3_PL.Views.frm_QLDongSp.resources
+F:\SapXong\3_PL\obj\Debug\net5.0-windows\_3_PL.Views.frm_QLHoaDon.resources
+F:\SapXong\3_PL\obj\Debug\net5.0-windows\_3_PL.Views.frm_QLHoaDonCT.resources
+F:\SapXong\3_PL\obj\Debug\net5.0-windows\_3_PL.Views.frm_QLKhachHang.resources
+F:\SapXong\3_PL\obj\Debug\net5.0-windows\_3_PL.Views.frm_QLMauSac.resources
+F:\SapXong\3_PL\obj\Debug\net5.0-windows\_3_PL.Views.frm_QLNhanVien.resources
+F:\SapXong\3_PL\obj\Debug\net5.0-windows\_3_PL.Views.frm_QLNsx.resources
+F:\SapXong\3_PL\obj\Debug\net5.0-windows\_3_PL.Views.frm_QLSanPham.resources
+F:\SapXong\3_PL\obj\Debug\net5.0-windows\3_PL.csproj.GenerateResource.cache
+F:\SapXong\3_PL\obj\Debug\net5.0-windows\3_PL.GeneratedMSBuildEditorConfig.editorconfig
+F:\SapXong\3_PL\obj\Debug\net5.0-windows\3_PL.AssemblyInfoInputs.cache
+F:\SapXong\3_PL\obj\Debug\net5.0-windows\3_PL.AssemblyInfo.cs
+F:\SapXong\3_PL\obj\Debug\net5.0-windows\3_PL.csproj.CoreCompileInputs.cache
+F:\SapXong\3_PL\obj\Debug\net5.0-windows\3_PL.csproj.CopyComplete
+F:\SapXong\3_PL\obj\Debug\net5.0-windows\3_PL.dll
+F:\SapXong\3_PL\obj\Debug\net5.0-windows\refint\3_PL.dll
+F:\SapXong\3_PL\obj\Debug\net5.0-windows\3_PL.pdb
+F:\SapXong\3_PL\obj\Debug\net5.0-windows\3_PL.genruntimeconfig.cache
+F:\SapXong\3_PL\obj\Debug\net5.0-windows\ref\3_PL.dll
+F:\SapXong\3_PL\obj\Debug\net5.0-windows\_3_PL.Views.A_1.resources
+D:\SapXongRoi\3_PL\obj\Debug\net5.0-windows\3_PL.csproj.AssemblyReference.cache
+D:\SapXongRoi\3_PL\obj\Debug\net5.0-windows\_3_PL.Properties.Resources.resources
+D:\SapXongRoi\3_PL\obj\Debug\net5.0-windows\_3_PL.Views.A_1.resources
+D:\SapXongRoi\3_PL\obj\Debug\net5.0-windows\_3_PL.Views.frm_anh.resources
+D:\SapXongRoi\3_PL\obj\Debug\net5.0-windows\_3_PL.Views.frm_CTSP.resources
+D:\SapXongRoi\3_PL\obj\Debug\net5.0-windows\_3_PL.Views.frm_Menu.resources
+D:\SapXongRoi\3_PL\obj\Debug\net5.0-windows\_3_PL.Views.frm_QLChucVu.resources
+D:\SapXongRoi\3_PL\obj\Debug\net5.0-windows\_3_PL.Views.frm_QLCuaHang.resources
+D:\SapXongRoi\3_PL\obj\Debug\net5.0-windows\_3_PL.Views.frm_QLDongSp.resources
+D:\SapXongRoi\3_PL\obj\Debug\net5.0-windows\_3_PL.Views.frm_QLHoaDon.resources
+D:\SapXongRoi\3_PL\obj\Debug\net5.0-windows\_3_PL.Views.frm_QLHoaDonCT.resources
+D:\SapXongRoi\3_PL\obj\Debug\net5.0-windows\_3_PL.Views.frm_QLKhachHang.resources
+D:\SapXongRoi\3_PL\obj\Debug\net5.0-windows\_3_PL.Views.frm_QLMauSac.resources
+D:\SapXongRoi\3_PL\obj\Debug\net5.0-windows\_3_PL.Views.frm_QLNhanVien.resources
+D:\SapXongRoi\3_PL\obj\Debug\net5.0-windows\_3_PL.Views.frm_QLNsx.resources
+D:\SapXongRoi\3_PL\obj\Debug\net5.0-windows\_3_PL.Views.frm_QLSanPham.resources
+D:\SapXongRoi\3_PL\obj\Debug\net5.0-windows\3_PL.csproj.GenerateResource.cache
+D:\SapXongRoi\3_PL\obj\Debug\net5.0-windows\3_PL.GeneratedMSBuildEditorConfig.editorconfig
+D:\SapXongRoi\3_PL\obj\Debug\net5.0-windows\3_PL.AssemblyInfoInputs.cache
+D:\SapXongRoi\3_PL\obj\Debug\net5.0-windows\3_PL.AssemblyInfo.cs
+D:\SapXongRoi\3_PL\obj\Debug\net5.0-windows\3_PL.csproj.CoreCompileInputs.cache
+D:\SapXongRoi\3_PL\obj\Debug\net5.0-windows\3_PL.dll
+D:\SapXongRoi\3_PL\obj\Debug\net5.0-windows\refint\3_PL.dll
+D:\SapXongRoi\3_PL\obj\Debug\net5.0-windows\3_PL.pdb
+D:\SapXongRoi\3_PL\bin\Debug\net5.0-windows\3_PL.exe
+D:\SapXongRoi\3_PL\bin\Debug\net5.0-windows\3_PL.deps.json
+D:\SapXongRoi\3_PL\bin\Debug\net5.0-windows\3_PL.runtimeconfig.json
+D:\SapXongRoi\3_PL\bin\Debug\net5.0-windows\3_PL.runtimeconfig.dev.json
+D:\SapXongRoi\3_PL\bin\Debug\net5.0-windows\3_PL.dll
+D:\SapXongRoi\3_PL\bin\Debug\net5.0-windows\3_PL.pdb
+D:\SapXongRoi\3_PL\bin\Debug\net5.0-windows\FontAwesome.Sharp.dll
+D:\SapXongRoi\3_PL\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+D:\SapXongRoi\3_PL\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\SapXongRoi\3_PL\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\SapXongRoi\3_PL\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\SapXongRoi\3_PL\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\SapXongRoi\3_PL\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\SapXongRoi\3_PL\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\SapXongRoi\3_PL\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\SapXongRoi\3_PL\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\SapXongRoi\3_PL\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\SapXongRoi\3_PL\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+D:\SapXongRoi\3_PL\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\SapXongRoi\3_PL\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+D:\SapXongRoi\3_PL\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+D:\SapXongRoi\3_PL\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+D:\SapXongRoi\3_PL\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\SapXongRoi\3_PL\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\SapXongRoi\3_PL\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\SapXongRoi\3_PL\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\SapXongRoi\3_PL\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\SapXongRoi\3_PL\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+D:\SapXongRoi\3_PL\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+D:\SapXongRoi\3_PL\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\SapXongRoi\3_PL\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+D:\SapXongRoi\3_PL\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\SapXongRoi\3_PL\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\SapXongRoi\3_PL\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SapXongRoi\3_PL\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\SapXongRoi\3_PL\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SapXongRoi\3_PL\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\SapXongRoi\3_PL\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SapXongRoi\3_PL\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\SapXongRoi\3_PL\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SapXongRoi\3_PL\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\SapXongRoi\3_PL\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\SapXongRoi\3_PL\bin\Debug\net5.0-windows\1_DAL.dll
+D:\SapXongRoi\3_PL\bin\Debug\net5.0-windows\2_BUS.dll
+D:\SapXongRoi\3_PL\bin\Debug\net5.0-windows\2_BUS.pdb
+D:\SapXongRoi\3_PL\bin\Debug\net5.0-windows\1_DAL.pdb
+D:\SapXongRoi\3_PL\obj\Debug\net5.0-windows\3_PL.csproj.CopyComplete
+D:\SapXongRoi\3_PL\obj\Debug\net5.0-windows\3_PL.genruntimeconfig.cache
+D:\SapXongRoi\3_PL\obj\Debug\net5.0-windows\ref\3_PL.dll
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\ASSIGNMENT_HT\3_PL\bin\Debug\net5.0-windows\3_PL.exe
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\ASSIGNMENT_HT\3_PL\bin\Debug\net5.0-windows\3_PL.deps.json
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\ASSIGNMENT_HT\3_PL\bin\Debug\net5.0-windows\3_PL.runtimeconfig.json
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\ASSIGNMENT_HT\3_PL\bin\Debug\net5.0-windows\3_PL.runtimeconfig.dev.json
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\ASSIGNMENT_HT\3_PL\bin\Debug\net5.0-windows\3_PL.dll
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\ASSIGNMENT_HT\3_PL\bin\Debug\net5.0-windows\3_PL.pdb
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\ASSIGNMENT_HT\3_PL\bin\Debug\net5.0-windows\FontAwesome.Sharp.dll
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\ASSIGNMENT_HT\3_PL\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\ASSIGNMENT_HT\3_PL\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\ASSIGNMENT_HT\3_PL\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\ASSIGNMENT_HT\3_PL\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\ASSIGNMENT_HT\3_PL\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\ASSIGNMENT_HT\3_PL\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\ASSIGNMENT_HT\3_PL\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\ASSIGNMENT_HT\3_PL\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\ASSIGNMENT_HT\3_PL\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\ASSIGNMENT_HT\3_PL\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\ASSIGNMENT_HT\3_PL\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\ASSIGNMENT_HT\3_PL\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\ASSIGNMENT_HT\3_PL\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\ASSIGNMENT_HT\3_PL\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\ASSIGNMENT_HT\3_PL\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\ASSIGNMENT_HT\3_PL\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\ASSIGNMENT_HT\3_PL\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\ASSIGNMENT_HT\3_PL\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\ASSIGNMENT_HT\3_PL\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\ASSIGNMENT_HT\3_PL\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\ASSIGNMENT_HT\3_PL\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\ASSIGNMENT_HT\3_PL\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\ASSIGNMENT_HT\3_PL\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\ASSIGNMENT_HT\3_PL\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\ASSIGNMENT_HT\3_PL\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\ASSIGNMENT_HT\3_PL\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\ASSIGNMENT_HT\3_PL\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\ASSIGNMENT_HT\3_PL\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\ASSIGNMENT_HT\3_PL\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\ASSIGNMENT_HT\3_PL\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\ASSIGNMENT_HT\3_PL\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\ASSIGNMENT_HT\3_PL\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\ASSIGNMENT_HT\3_PL\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\ASSIGNMENT_HT\3_PL\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\ASSIGNMENT_HT\3_PL\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\ASSIGNMENT_HT\3_PL\bin\Debug\net5.0-windows\1_DAL.dll
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\ASSIGNMENT_HT\3_PL\bin\Debug\net5.0-windows\2_BUS.dll
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\ASSIGNMENT_HT\3_PL\bin\Debug\net5.0-windows\2_BUS.pdb
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\ASSIGNMENT_HT\3_PL\bin\Debug\net5.0-windows\1_DAL.pdb
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\ASSIGNMENT_HT\3_PL\obj\Debug\net5.0-windows\3_PL.csproj.AssemblyReference.cache
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\ASSIGNMENT_HT\3_PL\obj\Debug\net5.0-windows\_3_PL.Properties.Resources.resources
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\ASSIGNMENT_HT\3_PL\obj\Debug\net5.0-windows\_3_PL.Views.A_1.resources
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\ASSIGNMENT_HT\3_PL\obj\Debug\net5.0-windows\_3_PL.Views.frm_anh.resources
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\ASSIGNMENT_HT\3_PL\obj\Debug\net5.0-windows\_3_PL.Views.frm_CTSP.resources
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\ASSIGNMENT_HT\3_PL\obj\Debug\net5.0-windows\_3_PL.Views.frm_Menu.resources
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\ASSIGNMENT_HT\3_PL\obj\Debug\net5.0-windows\_3_PL.Views.frm_QLChucVu.resources
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\ASSIGNMENT_HT\3_PL\obj\Debug\net5.0-windows\_3_PL.Views.frm_QLCuaHang.resources
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\ASSIGNMENT_HT\3_PL\obj\Debug\net5.0-windows\_3_PL.Views.frm_QLDongSp.resources
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\ASSIGNMENT_HT\3_PL\obj\Debug\net5.0-windows\_3_PL.Views.frm_QLHoaDon.resources
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\ASSIGNMENT_HT\3_PL\obj\Debug\net5.0-windows\_3_PL.Views.frm_QLHoaDonCT.resources
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\ASSIGNMENT_HT\3_PL\obj\Debug\net5.0-windows\_3_PL.Views.frm_QLKhachHang.resources
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\ASSIGNMENT_HT\3_PL\obj\Debug\net5.0-windows\_3_PL.Views.frm_QLMauSac.resources
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\ASSIGNMENT_HT\3_PL\obj\Debug\net5.0-windows\_3_PL.Views.frm_QLNhanVien.resources
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\ASSIGNMENT_HT\3_PL\obj\Debug\net5.0-windows\_3_PL.Views.frm_QLNsx.resources
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\ASSIGNMENT_HT\3_PL\obj\Debug\net5.0-windows\_3_PL.Views.frm_QLSanPham.resources
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\ASSIGNMENT_HT\3_PL\obj\Debug\net5.0-windows\3_PL.csproj.GenerateResource.cache
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\ASSIGNMENT_HT\3_PL\obj\Debug\net5.0-windows\3_PL.GeneratedMSBuildEditorConfig.editorconfig
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\ASSIGNMENT_HT\3_PL\obj\Debug\net5.0-windows\3_PL.AssemblyInfoInputs.cache
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\ASSIGNMENT_HT\3_PL\obj\Debug\net5.0-windows\3_PL.AssemblyInfo.cs
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\ASSIGNMENT_HT\3_PL\obj\Debug\net5.0-windows\3_PL.csproj.CoreCompileInputs.cache
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\ASSIGNMENT_HT\3_PL\obj\Debug\net5.0-windows\3_PL.csproj.CopyComplete
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\ASSIGNMENT_HT\3_PL\obj\Debug\net5.0-windows\3_PL.dll
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\ASSIGNMENT_HT\3_PL\obj\Debug\net5.0-windows\refint\3_PL.dll
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\ASSIGNMENT_HT\3_PL\obj\Debug\net5.0-windows\3_PL.pdb
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\ASSIGNMENT_HT\3_PL\obj\Debug\net5.0-windows\3_PL.genruntimeconfig.cache
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\ASSIGNMENT_HT\3_PL\obj\Debug\net5.0-windows\ref\3_PL.dll
