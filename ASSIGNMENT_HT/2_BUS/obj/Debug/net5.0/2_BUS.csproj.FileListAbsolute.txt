@@ -1,0 +1,90 @@
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\PTPM_ASSIGNMENT_TRUNGTVPH28671\2_BUS\bin\Debug\net5.0\2_BUS.deps.json
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\PTPM_ASSIGNMENT_TRUNGTVPH28671\2_BUS\bin\Debug\net5.0\2_BUS.dll
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\PTPM_ASSIGNMENT_TRUNGTVPH28671\2_BUS\bin\Debug\net5.0\2_BUS.pdb
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\PTPM_ASSIGNMENT_TRUNGTVPH28671\2_BUS\obj\Debug\net5.0\2_BUS.csproj.AssemblyReference.cache
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\PTPM_ASSIGNMENT_TRUNGTVPH28671\2_BUS\obj\Debug\net5.0\2_BUS.GeneratedMSBuildEditorConfig.editorconfig
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\PTPM_ASSIGNMENT_TRUNGTVPH28671\2_BUS\obj\Debug\net5.0\2_BUS.AssemblyInfoInputs.cache
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\PTPM_ASSIGNMENT_TRUNGTVPH28671\2_BUS\obj\Debug\net5.0\2_BUS.AssemblyInfo.cs
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\PTPM_ASSIGNMENT_TRUNGTVPH28671\2_BUS\obj\Debug\net5.0\2_BUS.csproj.CoreCompileInputs.cache
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\PTPM_ASSIGNMENT_TRUNGTVPH28671\2_BUS\obj\Debug\net5.0\2_BUS.dll
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\PTPM_ASSIGNMENT_TRUNGTVPH28671\2_BUS\obj\Debug\net5.0\refint\2_BUS.dll
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\PTPM_ASSIGNMENT_TRUNGTVPH28671\2_BUS\obj\Debug\net5.0\2_BUS.pdb
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\PTPM_ASSIGNMENT_TRUNGTVPH28671\2_BUS\obj\Debug\net5.0\ref\2_BUS.dll
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\PTPM_ASSIGNMENT_TRUNGTVPH28671\2_BUS\bin\Debug\net5.0\1_DAL.dll
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\PTPM_ASSIGNMENT_TRUNGTVPH28671\2_BUS\bin\Debug\net5.0\1_DAL.pdb
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\PTPM_ASSIGNMENT_TRUNGTVPH28671\2_BUS\obj\Debug\net5.0\2_BUS.csproj.CopyComplete
+C:\Users\trung\Desktop\PTPM_ASSIGNMENT_TRUNGTVPH28671\2_BUS\bin\Debug\net5.0\2_BUS.deps.json
+C:\Users\trung\Desktop\PTPM_ASSIGNMENT_TRUNGTVPH28671\2_BUS\bin\Debug\net5.0\2_BUS.dll
+C:\Users\trung\Desktop\PTPM_ASSIGNMENT_TRUNGTVPH28671\2_BUS\bin\Debug\net5.0\2_BUS.pdb
+C:\Users\trung\Desktop\PTPM_ASSIGNMENT_TRUNGTVPH28671\2_BUS\bin\Debug\net5.0\1_DAL.dll
+C:\Users\trung\Desktop\PTPM_ASSIGNMENT_TRUNGTVPH28671\2_BUS\bin\Debug\net5.0\1_DAL.pdb
+C:\Users\trung\Desktop\PTPM_ASSIGNMENT_TRUNGTVPH28671\2_BUS\obj\Debug\net5.0\2_BUS.csproj.AssemblyReference.cache
+C:\Users\trung\Desktop\PTPM_ASSIGNMENT_TRUNGTVPH28671\2_BUS\obj\Debug\net5.0\2_BUS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trung\Desktop\PTPM_ASSIGNMENT_TRUNGTVPH28671\2_BUS\obj\Debug\net5.0\2_BUS.AssemblyInfoInputs.cache
+C:\Users\trung\Desktop\PTPM_ASSIGNMENT_TRUNGTVPH28671\2_BUS\obj\Debug\net5.0\2_BUS.AssemblyInfo.cs
+C:\Users\trung\Desktop\PTPM_ASSIGNMENT_TRUNGTVPH28671\2_BUS\obj\Debug\net5.0\2_BUS.csproj.CoreCompileInputs.cache
+C:\Users\trung\Desktop\PTPM_ASSIGNMENT_TRUNGTVPH28671\2_BUS\obj\Debug\net5.0\2_BUS.csproj.CopyComplete
+C:\Users\trung\Desktop\PTPM_ASSIGNMENT_TRUNGTVPH28671\2_BUS\obj\Debug\net5.0\2_BUS.dll
+C:\Users\trung\Desktop\PTPM_ASSIGNMENT_TRUNGTVPH28671\2_BUS\obj\Debug\net5.0\refint\2_BUS.dll
+C:\Users\trung\Desktop\PTPM_ASSIGNMENT_TRUNGTVPH28671\2_BUS\obj\Debug\net5.0\2_BUS.pdb
+C:\Users\trung\Desktop\PTPM_ASSIGNMENT_TRUNGTVPH28671\2_BUS\obj\Debug\net5.0\ref\2_BUS.dll
+C:\Users\trung\Desktop\SapXong\2_BUS\bin\Debug\net5.0\2_BUS.deps.json
+C:\Users\trung\Desktop\SapXong\2_BUS\bin\Debug\net5.0\2_BUS.dll
+C:\Users\trung\Desktop\SapXong\2_BUS\bin\Debug\net5.0\2_BUS.pdb
+C:\Users\trung\Desktop\SapXong\2_BUS\bin\Debug\net5.0\1_DAL.dll
+C:\Users\trung\Desktop\SapXong\2_BUS\bin\Debug\net5.0\1_DAL.pdb
+C:\Users\trung\Desktop\SapXong\2_BUS\obj\Debug\net5.0\2_BUS.csproj.AssemblyReference.cache
+C:\Users\trung\Desktop\SapXong\2_BUS\obj\Debug\net5.0\2_BUS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trung\Desktop\SapXong\2_BUS\obj\Debug\net5.0\2_BUS.AssemblyInfoInputs.cache
+C:\Users\trung\Desktop\SapXong\2_BUS\obj\Debug\net5.0\2_BUS.AssemblyInfo.cs
+C:\Users\trung\Desktop\SapXong\2_BUS\obj\Debug\net5.0\2_BUS.csproj.CoreCompileInputs.cache
+C:\Users\trung\Desktop\SapXong\2_BUS\obj\Debug\net5.0\2_BUS.csproj.CopyComplete
+C:\Users\trung\Desktop\SapXong\2_BUS\obj\Debug\net5.0\2_BUS.dll
+C:\Users\trung\Desktop\SapXong\2_BUS\obj\Debug\net5.0\refint\2_BUS.dll
+C:\Users\trung\Desktop\SapXong\2_BUS\obj\Debug\net5.0\2_BUS.pdb
+C:\Users\trung\Desktop\SapXong\2_BUS\obj\Debug\net5.0\ref\2_BUS.dll
+F:\SapXong\2_BUS\bin\Debug\net5.0\2_BUS.deps.json
+F:\SapXong\2_BUS\bin\Debug\net5.0\2_BUS.dll
+F:\SapXong\2_BUS\bin\Debug\net5.0\2_BUS.pdb
+F:\SapXong\2_BUS\bin\Debug\net5.0\1_DAL.dll
+F:\SapXong\2_BUS\bin\Debug\net5.0\1_DAL.pdb
+F:\SapXong\2_BUS\obj\Debug\net5.0\2_BUS.csproj.AssemblyReference.cache
+F:\SapXong\2_BUS\obj\Debug\net5.0\2_BUS.GeneratedMSBuildEditorConfig.editorconfig
+F:\SapXong\2_BUS\obj\Debug\net5.0\2_BUS.AssemblyInfoInputs.cache
+F:\SapXong\2_BUS\obj\Debug\net5.0\2_BUS.AssemblyInfo.cs
+F:\SapXong\2_BUS\obj\Debug\net5.0\2_BUS.csproj.CoreCompileInputs.cache
+F:\SapXong\2_BUS\obj\Debug\net5.0\2_BUS.csproj.CopyComplete
+F:\SapXong\2_BUS\obj\Debug\net5.0\2_BUS.dll
+F:\SapXong\2_BUS\obj\Debug\net5.0\refint\2_BUS.dll
+F:\SapXong\2_BUS\obj\Debug\net5.0\2_BUS.pdb
+F:\SapXong\2_BUS\obj\Debug\net5.0\ref\2_BUS.dll
+D:\SapXongRoi\2_BUS\bin\Debug\net5.0\2_BUS.deps.json
+D:\SapXongRoi\2_BUS\bin\Debug\net5.0\2_BUS.dll
+D:\SapXongRoi\2_BUS\bin\Debug\net5.0\2_BUS.pdb
+D:\SapXongRoi\2_BUS\bin\Debug\net5.0\1_DAL.dll
+D:\SapXongRoi\2_BUS\bin\Debug\net5.0\1_DAL.pdb
+D:\SapXongRoi\2_BUS\obj\Debug\net5.0\2_BUS.csproj.AssemblyReference.cache
+D:\SapXongRoi\2_BUS\obj\Debug\net5.0\2_BUS.GeneratedMSBuildEditorConfig.editorconfig
+D:\SapXongRoi\2_BUS\obj\Debug\net5.0\2_BUS.AssemblyInfoInputs.cache
+D:\SapXongRoi\2_BUS\obj\Debug\net5.0\2_BUS.AssemblyInfo.cs
+D:\SapXongRoi\2_BUS\obj\Debug\net5.0\2_BUS.csproj.CoreCompileInputs.cache
+D:\SapXongRoi\2_BUS\obj\Debug\net5.0\2_BUS.csproj.CopyComplete
+D:\SapXongRoi\2_BUS\obj\Debug\net5.0\2_BUS.dll
+D:\SapXongRoi\2_BUS\obj\Debug\net5.0\refint\2_BUS.dll
+D:\SapXongRoi\2_BUS\obj\Debug\net5.0\2_BUS.pdb
+D:\SapXongRoi\2_BUS\obj\Debug\net5.0\ref\2_BUS.dll
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\ASSIGNMENT_HT\2_BUS\bin\Debug\net5.0\2_BUS.deps.json
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\ASSIGNMENT_HT\2_BUS\bin\Debug\net5.0\2_BUS.dll
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\ASSIGNMENT_HT\2_BUS\bin\Debug\net5.0\2_BUS.pdb
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\ASSIGNMENT_HT\2_BUS\bin\Debug\net5.0\1_DAL.dll
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\ASSIGNMENT_HT\2_BUS\bin\Debug\net5.0\1_DAL.pdb
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\ASSIGNMENT_HT\2_BUS\obj\Debug\net5.0\2_BUS.csproj.AssemblyReference.cache
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\ASSIGNMENT_HT\2_BUS\obj\Debug\net5.0\2_BUS.GeneratedMSBuildEditorConfig.editorconfig
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\ASSIGNMENT_HT\2_BUS\obj\Debug\net5.0\2_BUS.AssemblyInfoInputs.cache
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\ASSIGNMENT_HT\2_BUS\obj\Debug\net5.0\2_BUS.AssemblyInfo.cs
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\ASSIGNMENT_HT\2_BUS\obj\Debug\net5.0\2_BUS.csproj.CoreCompileInputs.cache
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\ASSIGNMENT_HT\2_BUS\obj\Debug\net5.0\2_BUS.csproj.CopyComplete
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\ASSIGNMENT_HT\2_BUS\obj\Debug\net5.0\2_BUS.dll
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\ASSIGNMENT_HT\2_BUS\obj\Debug\net5.0\refint\2_BUS.dll
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\ASSIGNMENT_HT\2_BUS\obj\Debug\net5.0\2_BUS.pdb
+F:\Trungtvph28671\TL_FPT\SOFT205-DU AN MAU\lam_bai\ASSIGNMENT_HT\2_BUS\obj\Debug\net5.0\ref\2_BUS.dll
