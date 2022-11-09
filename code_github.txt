@@ -1,11 +1,11 @@
 up code từ máy lên github:
 git add .
-git commit -m "first commit"
+git commit -m "nhập lệnh"
 git push
 
 update code từ github về máy:
 git pull
 
 clone file từ github:
-git clone "link cần clone"
+git clone "nhập link cần clone"
 
