@@ -1,0 +1,8 @@
+up code
+
+git add .
+git commit -m "first commit"
+git push
+
+clone
+git clone "link cần clone"
