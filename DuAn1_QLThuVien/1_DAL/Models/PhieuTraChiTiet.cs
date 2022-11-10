@@ -14,7 +14,7 @@ namespace _1_DAL.Models
         public int? SoLuong { get; set; }
         public int? TinhTrang { get; set; }
         public string? GhiChu { get; set; }
-        public Sach Sach { get; set; }
+        public virtual Sach Sach { get; set; }
         public PhieuTra PhieuTra { get; set; }
 
     }

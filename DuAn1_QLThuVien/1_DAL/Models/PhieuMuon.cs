@@ -15,7 +15,7 @@ namespace _1_DAL.Models
         public DateTime? NgayMuon { get; set; }
         public DateTime? NgayTra { get; set; }
         public string?  GhiChu { get; set; }
-        public TheThanhVien TheThanhVien { get; set; }
-        public NhanVien NhanVien { get; set; }
+        public virtual TheThanhVien TheThanhVien { get; set; }
+        public virtual NhanVien NhanVien { get; set; }
     }
 }

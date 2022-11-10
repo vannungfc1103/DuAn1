@@ -13,6 +13,6 @@ namespace _1_DAL.Models
         public DateTime? StartTime { get; set; }
         public DateTime? EndTime { get; set; }
         public string? GhiChu { get; set; }
-        public NhanVien NhanVien { get; set; }
+        public virtual NhanVien NhanVien { get; set; }
     }
 }

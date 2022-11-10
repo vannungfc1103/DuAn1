@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ov97qo14zF3f5ulaKZSEaJQckW5WJVdr1y9vUzEGUIF8KSizMDcrNCn2b5UFc0vaReDjcNDtw9TorLpoLr/DBQ==",
+  "dgSpecHash": "ySae8ObHRYxLtV/BRs8XdLQTnfkH6cTO4V01WQvaehLGMUCdCLBifePbkexdaNiK9Br5wXpipii8iz3dIIqR3Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\trung\\Desktop\\DuAn1\\DuAn1_QLThuVien\\2_BUS\\2_BUS.csproj",
+  "projectFilePath": "F:\\Trungtvph28671\\TL_FPT\\PRO131_DU_AN_1\\Du_An\\DuAn1_QLThuVien\\2_BUS\\2_BUS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\trung\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\trung\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",

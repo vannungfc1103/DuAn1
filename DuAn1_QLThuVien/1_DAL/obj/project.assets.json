@@ -2014,11 +2014,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\trung\\Desktop\\DuAn1\\DuAn1_QLThuVien\\1_DAL\\1_DAL.csproj",
+      "projectUniqueName": "F:\\Trungtvph28671\\TL_FPT\\PRO131_DU_AN_1\\Du_An\\DuAn1_QLThuVien\\1_DAL\\1_DAL.csproj",
       "projectName": "1_DAL",
-      "projectPath": "C:\\Users\\trung\\Desktop\\DuAn1\\DuAn1_QLThuVien\\1_DAL\\1_DAL.csproj",
+      "projectPath": "F:\\Trungtvph28671\\TL_FPT\\PRO131_DU_AN_1\\Du_An\\DuAn1_QLThuVien\\1_DAL\\1_DAL.csproj",
       "packagesPath": "C:\\Users\\trung\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\trung\\Desktop\\DuAn1\\DuAn1_QLThuVien\\1_DAL\\obj\\",
+      "outputPath": "F:\\Trungtvph28671\\TL_FPT\\PRO131_DU_AN_1\\Du_An\\DuAn1_QLThuVien\\1_DAL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

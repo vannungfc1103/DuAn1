@@ -12,6 +12,6 @@ namespace _1_DAL.Models
         public Guid? IdPM { get; set; }
         public DateTime? NgayTra { get; set; }
         public string?  GhiChu { get; set; }
-        public PhieuMuon PhieuMuon { get; set; }
+        public virtual PhieuMuon PhieuMuon { get; set; }
     }
 }
