@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>_2_BUS</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\1_DAL\1_DAL.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Features\" />
+    <Folder Include="IServices\" />
+    <Folder Include="Services\" />
+    <Folder Include="Utilities\" />
+    <Folder Include="ViewModels\" />
+  </ItemGroup>
+
+</Project>

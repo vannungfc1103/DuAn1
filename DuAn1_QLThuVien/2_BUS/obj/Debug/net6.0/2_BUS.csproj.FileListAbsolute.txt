@@ -1,0 +1,15 @@
+F:\Trungtvph28671\TL_FPT\PRO131_DU_AN_1\Du_An\DuAn1_QLThuVien\2_BUS\bin\Debug\net6.0\2_BUS.deps.json
+F:\Trungtvph28671\TL_FPT\PRO131_DU_AN_1\Du_An\DuAn1_QLThuVien\2_BUS\bin\Debug\net6.0\2_BUS.dll
+F:\Trungtvph28671\TL_FPT\PRO131_DU_AN_1\Du_An\DuAn1_QLThuVien\2_BUS\bin\Debug\net6.0\2_BUS.pdb
+F:\Trungtvph28671\TL_FPT\PRO131_DU_AN_1\Du_An\DuAn1_QLThuVien\2_BUS\bin\Debug\net6.0\1_DAL.dll
+F:\Trungtvph28671\TL_FPT\PRO131_DU_AN_1\Du_An\DuAn1_QLThuVien\2_BUS\bin\Debug\net6.0\1_DAL.pdb
+F:\Trungtvph28671\TL_FPT\PRO131_DU_AN_1\Du_An\DuAn1_QLThuVien\2_BUS\obj\Debug\net6.0\2_BUS.csproj.AssemblyReference.cache
+F:\Trungtvph28671\TL_FPT\PRO131_DU_AN_1\Du_An\DuAn1_QLThuVien\2_BUS\obj\Debug\net6.0\2_BUS.GeneratedMSBuildEditorConfig.editorconfig
+F:\Trungtvph28671\TL_FPT\PRO131_DU_AN_1\Du_An\DuAn1_QLThuVien\2_BUS\obj\Debug\net6.0\2_BUS.AssemblyInfoInputs.cache
+F:\Trungtvph28671\TL_FPT\PRO131_DU_AN_1\Du_An\DuAn1_QLThuVien\2_BUS\obj\Debug\net6.0\2_BUS.AssemblyInfo.cs
+F:\Trungtvph28671\TL_FPT\PRO131_DU_AN_1\Du_An\DuAn1_QLThuVien\2_BUS\obj\Debug\net6.0\2_BUS.csproj.CoreCompileInputs.cache
+F:\Trungtvph28671\TL_FPT\PRO131_DU_AN_1\Du_An\DuAn1_QLThuVien\2_BUS\obj\Debug\net6.0\2_BUS.csproj.CopyComplete
+F:\Trungtvph28671\TL_FPT\PRO131_DU_AN_1\Du_An\DuAn1_QLThuVien\2_BUS\obj\Debug\net6.0\2_BUS.dll
+F:\Trungtvph28671\TL_FPT\PRO131_DU_AN_1\Du_An\DuAn1_QLThuVien\2_BUS\obj\Debug\net6.0\refint\2_BUS.dll
+F:\Trungtvph28671\TL_FPT\PRO131_DU_AN_1\Du_An\DuAn1_QLThuVien\2_BUS\obj\Debug\net6.0\2_BUS.pdb
+F:\Trungtvph28671\TL_FPT\PRO131_DU_AN_1\Du_An\DuAn1_QLThuVien\2_BUS\obj\Debug\net6.0\ref\2_BUS.dll
