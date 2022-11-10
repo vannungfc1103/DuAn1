@@ -13,7 +13,7 @@ namespace _1_DAL.Configurations
     {
         public void Configure(EntityTypeBuilder<PhieuMuonChiTiet> buider)
         {
-            buider.ToTable("PhieuMuon");
+            buider.ToTable("PhieuMuonChiTiet");
             buider.HasKey(x => x.Id);
 
             buider.Property(p => p.IdPM).IsRequired();
@@ -24,7 +24,7 @@ namespace _1_DAL.Configurations
             buider.Property(p => p.GhiChu).HasColumnName("GhiChu").HasColumnType("nvarchar(100)").IsRequired();
 
             buider.HasOne(p => p.Sach).WithMany().HasForeignKey(p => p.IdSach);
-            buider.HasOne<PhieuMuon>().WithMany().HasForeignKey(p => p.IdPM);
+            buider.HasOne(p=>p.PhieuMuon).WithMany().HasForeignKey(p => p.IdPM);
         }
     }
 }

@@ -1931,11 +1931,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Trungtvph28671\\TL_FPT\\PRO131_DU_AN_1\\Du_An\\DuAn1_QLThuVien\\2_BUS\\2_BUS.csproj",
+      "projectUniqueName": "C:\\Users\\trung\\Desktop\\DuAn1\\DuAn1_QLThuVien\\2_BUS\\2_BUS.csproj",
       "projectName": "2_BUS",
-      "projectPath": "F:\\Trungtvph28671\\TL_FPT\\PRO131_DU_AN_1\\Du_An\\DuAn1_QLThuVien\\2_BUS\\2_BUS.csproj",
+      "projectPath": "C:\\Users\\trung\\Desktop\\DuAn1\\DuAn1_QLThuVien\\2_BUS\\2_BUS.csproj",
       "packagesPath": "C:\\Users\\trung\\.nuget\\packages\\",
-      "outputPath": "F:\\Trungtvph28671\\TL_FPT\\PRO131_DU_AN_1\\Du_An\\DuAn1_QLThuVien\\2_BUS\\obj\\",
+      "outputPath": "C:\\Users\\trung\\Desktop\\DuAn1\\DuAn1_QLThuVien\\2_BUS\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1956,8 +1956,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "F:\\Trungtvph28671\\TL_FPT\\PRO131_DU_AN_1\\Du_An\\DuAn1_QLThuVien\\1_DAL\\1_DAL.csproj": {
-              "projectPath": "F:\\Trungtvph28671\\TL_FPT\\PRO131_DU_AN_1\\Du_An\\DuAn1_QLThuVien\\1_DAL\\1_DAL.csproj"
+            "C:\\Users\\trung\\Desktop\\DuAn1\\DuAn1_QLThuVien\\1_DAL\\1_DAL.csproj": {
+              "projectPath": "C:\\Users\\trung\\Desktop\\DuAn1\\DuAn1_QLThuVien\\1_DAL\\1_DAL.csproj"
             }
           }
         }
