@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace _3_PL.Views
 {
-    public partial class frm_DangNhap : Form
+    public partial class LoginForm : Form
     {
-        public frm_DangNhap()
+        public LoginForm()
         {
             InitializeComponent();
         }
