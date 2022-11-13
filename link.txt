@@ -1,2 +1,2 @@
 Scaffold-DbContext 'Data Source=TRUNG2701\SQLEXPRESS;Initial Catalog=FINALASS_FPOLYSHOP_FA22_SOF205__SOF2041;Integrated Security=True;User ID=trungtruong;Password=123456' Microsoft.EntityFrameworkCore.SqlServer -OutputDir DomainClass -context FpolyDBContext -Contextdir Context -DataAnnotations -Force
-	aaa
+
